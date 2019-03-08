@@ -1,7 +1,6 @@
-# poly.py
+# poly-3.py
 # Raunak Anand
-# ECS 36A Winter Quarter
-# Write a program that reads an integer n
+# This program reads an integer n
 # and draws a regular polygon with n sides
 
 import turtle               # allows us to use turtles
